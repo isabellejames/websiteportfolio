@@ -1,5 +1,11 @@
-body {}
-  h1{background-color: #FFC1CC}
-    h2{color: #A94064}
-      h3{color: #DE5D83}
-        p{}
+body {text-align: center;}
+  h1{background-color: #002366; color: #ffd300; font-size: 300%;
+    text-align: center; font-weight: bold;margin: 15px;}
+    h2{color: #004f98;padding-bottom:0px;}
+      h3{color: #4682b4;}
+        .links{background-color: #ffd300; color: #002366; display: flex;
+        text-align: center; font-size: 110%;}
+      img.vis{display: block; margin: 0px auto;}
+    ul{list-style: none; padding-bottom: 20px; padding-top: -20px;}
+    p{padding-bottom: 20px;}
+    li{padding-bottom: 10px; padding-top: -20px; text-align: center;}
