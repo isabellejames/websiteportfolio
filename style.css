@@ -1,0 +1,18 @@
+
+  h1{background-color: #002366; color: #ffd300; font-size: 50px; font-weight: bold; margin: 15px;
+    text-align: center;padding: 14px 12px;}
+    h2{color: #004f98;padding-bottom:0px; text-align: center;}
+      h3{color: #4682b4; position: relative; right: -220px;}
+      img.vis{display: block; margin: 0px auto; position: relative; right: -200px; top: -150px;}
+    p{padding-bottom: 20px; text-align: center;}
+    audio.aud{position: relative; right: -700px; top: -130px;}
+    img.code{position: relative; right: -700px; top: -130px;}
+    body{background-color: #E1F4FF;}
+.sound{position: relative; right: -220px;}
+.img{position: relative; right: -220px;}
+.web{position: relative; right: -220px;}
+nav{display: flex; justify-content: space-between; align-items: center; background-color: #ffd300;}
+.links{flex: 1; text-align: center;}
+.links ul li{list-style: none; display: inline-block; padding: 12px 10px; position: relative;}
+.links ul li a{color: #002366; text-decoration:none; font-size: 20px;}
+.links ul li a:hover{color: #ff69b4;}
